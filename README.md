@@ -1,2 +1,5 @@
 # Coding_Solution
-Android app creation using java 
+Android app creation using java .
+# This is just the java code for the application.
+The app is under development.
+
