@@ -1,5 +1,8 @@
-# Testing
-Android app creation using java .
-# This is just the java code for the application.
-The app is under development.
+# This repository has the MAR activities for *BCA 2020* MAKAUT
+#bppimtforum
+#MAR
+#forum
+#final_year_bca
+
+
 
