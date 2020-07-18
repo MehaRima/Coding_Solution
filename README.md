@@ -21,8 +21,8 @@ Full list
 
  
  
-#bppimtforum
-**[Other college forum posts](https://www.facebook.com/bppimtforum.saltlake)**
+# BPPIMT Salt Lake's Forum Page
+**[#bppimtforum](https://www.facebook.com/bppimtforum.saltlake)**
 
 #MAR
 #forum
