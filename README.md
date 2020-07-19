@@ -16,6 +16,7 @@ Full list
 **[Link for LO](https://www.coursera.org/account/accomplishments/records/B5AZZEEGA36B?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_content=cert_image)**
 
 **[Link for VPA](https://www.youtube.com/watch?v=ca7ue9fnZQc&feature=youtu.be)**
+
 **[Special recognition VPA](https://github.com/MehaRima/Coding_Solution/blob/master/EXPLORA_CAT0exp0006.pdf)**
 
 **[Link for Technical](https://github.com/MehaRima/Coding_Solution/blob/master/Aarogya%20Setu%20App_%E2%80%9CWriting%20of%20Technical%20Review%20Article%E2%80%9D%20for%20MAR%202020.pdf)**
