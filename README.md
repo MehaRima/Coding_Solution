@@ -8,6 +8,7 @@ Full list
 **[The excel sheet](https://github.com/MehaRima/Coding_Solution/blob/master/All_MAR_activity_Saheli_Basu.xlsx)**
 
  contains all the activities along with the links 
+ 
 # Seperate Posts 
 
 **[Link for NSS](https://in.pinterest.com/sahelibasu/covid-19-facts-and-information/)**
@@ -17,6 +18,7 @@ Full list
 **[Link for VPA](https://www.youtube.com/watch?v=ca7ue9fnZQc&feature=youtu.be)**
 
 **[Link for Technical](https://github.com/MehaRima/Coding_Solution/blob/master/Aarogya%20Setu%20App_%E2%80%9CWriting%20of%20Technical%20Review%20Article%E2%80%9D%20for%20MAR%202020.pdf)**
+
 
 ## Student Details
 
