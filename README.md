@@ -18,14 +18,14 @@ Full list
 
 **[Link for Technical](https://github.com/MehaRima/Coding_Solution/blob/master/Aarogya%20Setu%20App_%E2%80%9CWriting%20of%20Technical%20Review%20Article%E2%80%9D%20for%20MAR%202020.pdf)**
 
-# Student Details
+## Student Details
 
-## Name:-*Saheli Basu*
-## College Roll:-*1820062*
-## University Roll:-*30101217019*
-## Stream:-*BCA*
-## Semester:-*6th*
-## Sec:-*B*
+#### Name:-*Saheli Basu*
+#### College Roll:-*1820062*
+#### University Roll:-*30101217019*
+#### Stream:-*BCA*
+#### Semester:-*6th*
+#### Sec:-*B*
 
  
 # BPPIMT Salt Lake's Forum Page
