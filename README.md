@@ -3,7 +3,7 @@
 Full list
 
 
-**[The pdf](https://github.com/MehaRima/Coding_Solution/blob/master/Aarogya%20Setu%20App_%E2%80%9CWriting%20of%20Technical%20Review%20Article%E2%80%9D%20for%20MAR%202020.pdf)**
+**[The pdf](https://github.com/MehaRima/Coding_Solution/blob/master/All_MAR_activity_Saheli_Basu%20-%20Activity_MAR_Saheli_Basu.pdf)**
 
 **[The excel sheet](https://github.com/MehaRima/Coding_Solution/blob/master/All_MAR_activity_Saheli_Basu.xlsx)**
 
